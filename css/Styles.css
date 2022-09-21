@@ -20,7 +20,7 @@ position:relative;
    align-items: center;
  }
 nav img {
-  width :100px;
+  width :150px;
   margin-left: 0px;
 }
 .navlinks {
@@ -35,9 +35,9 @@ nav img {
 
 }
 .navlinks ul li a {
-  color : #FEF5AC ;
+  color : #FFF;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 20px;
 }
 .navlinks ul li::after{
   content:'' ;
